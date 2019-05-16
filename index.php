@@ -12,3 +12,10 @@
   <input type="text" placeholder="Command" name="command"></input>
   <button type="submit">Exec rcon</button>
 </form>
+<!--
+  server.cfg muss folgendes beinhalten:
+
+  host_name_store 1
+  host_info_show 1
+  host_players_show 2
+-->
