@@ -1,5 +1,5 @@
 <?php
-	require __DIR__ . '/../SourceQuery/bootstrap.php';
+	require __DIR__ . './SourceQuery/bootstrap.php';
 	use xPaw\SourceQuery\SourceQuery;
 
 	// For the sake of this example
