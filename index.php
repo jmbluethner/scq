@@ -10,5 +10,5 @@
   <input type="text" placeholder="Port" name="port"></input>
   <input type="text" placeholder="Rcon Password" name="rconpw"></input>
   <input type="text" placeholder="Command" name="command"></input>
-  <button type="submit">Query Server</button>
+  <button type="submit">Exec rcon</button>
 </form>
